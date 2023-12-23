@@ -10,3 +10,12 @@ mil = 1000
 twoThousand = 2000
 print (mil + twoThousand)
 print("world")
+
+# Testing comments
+
+def newMagic():
+    print(tres)
+
+newMagic()
+#new liine
+
