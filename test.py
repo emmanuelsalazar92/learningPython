@@ -17,5 +17,5 @@ def newMagic():
     print(tres)
 
 newMagic()
-#new liine
+#new line
 
