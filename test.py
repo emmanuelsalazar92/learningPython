@@ -19,3 +19,6 @@ def newMagic():
 newMagic()
 #new line
 
+names = ["Alberto", "Brayan", "Carlos", "Daniel", "Esteban", "Fernando"]
+for x in names:
+    print(x)
