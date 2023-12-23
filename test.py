@@ -17,3 +17,5 @@ def newMagic():
     print(tres)
 
 newMagic()
+#new liine
+
